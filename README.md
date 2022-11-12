@@ -3,6 +3,7 @@
 This project predicts numbers
 
 1.png >>> Model predicts it as 5, because of the straight line similar with 5
+
 2.png >>> Model predicts it as 2, down side may help it in prediction
 3.png >>> Model predicts it as 1, beacuse it looks like print 1
 4.png >>> Model predicts it as 8, beacuse it looks like print 9
